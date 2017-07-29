@@ -1,4 +1,5 @@
 #关于sublime的配置信息
+
 ### sublime快捷键使用
 - Ctrl+alt+f ==>格式化js代码
 - Alt+shift+a==>局部代码格式化
@@ -71,4 +72,61 @@ $.ajax({
 	"theme": "Spacegray.sublime-theme",
 	"word_wrap": true
 }
+```
+###按键绑定
+```
+[
+
+    // chrome
+    {
+        "keys": ["alt+q"],
+        "command": "side_bar_files_open_with",
+        "args": {
+            "paths": [],
+            "application": "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe",
+            "extensions": ".*"
+        }
+    },
+
+    // firefox
+    {
+        "keys": ["f3"],
+        "command": "side_bar_files_open_with",
+        "args": {
+            "paths": [],
+            "application": "D:/Program Files (x86)/Mozilla Firefox/firefox.exe",
+            "extensions": ".*"
+        }
+    },
+
+    // ie
+    {
+        "keys": ["f4"],
+        "command": "side_bar_files_open_with",
+        "args": {
+            "paths": [],
+            "application": "C:/Program Files/Internet Explorer/iexplore.exe",
+            "extensions": ".*"
+        }
+    },
+    {
+        "keys": ["alt+a"],
+        "command": "toggle_side_bar"
+    },
+    //代码格式化快捷键
+    {
+        "keys": ["alt+shift+a"],
+        "command": "reindent"
+    },
+    //在浏览器中打开markdown编辑的文件
+    {
+        "keys": ["f5"],
+        "command": "markdown_preview",
+        "args": {
+            "target": "browser",
+            "parser": "markdown"
+        }
+    },
+
+]
 ```
