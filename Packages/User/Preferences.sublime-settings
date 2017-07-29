@@ -1,0 +1,18 @@
+{
+	"color_inactive_tabs": true,
+	"color_scheme": "Packages/User/SublimeLinter/base16-ocean.dark (SL).tmTheme",
+	"enable_tab_scrolling": false,
+	"folder_no_icon": false,
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"spacegray_fileicons": true,
+	"spacegray_sidebar_font_xlarge": true,
+	"spacegray_sidebar_tree_xlarge": true,
+	"spacegray_tabs_font_large": true,
+	"spacegray_tabs_xlarge": true,
+	"theme": "Spacegray.sublime-theme",
+	"word_wrap": true
+}

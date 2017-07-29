@@ -1,0 +1,1057 @@
+{
+	"folder_history":
+	[
+		"/C/Users/81120/Desktop/项目/boortstrap",
+		"/C/Users/81120/Desktop/node star",
+		"/C/Users/81120/Desktop/项目/kuayu",
+		"/C/Users/81120/Desktop/项目/cut",
+		"/C/Users/81120/Desktop/前端学习",
+		"/C/Users/81120/Desktop/项目/跨域请求",
+		"/C/Users/81120/Desktop/Juicer-master",
+		"/G/前端资源/h5常用工具/有用的资料、软件/开发工具及常用软件/java/sanxing/SXEbank",
+		"/G/前端资源/新建文件夹/sam工作/js作业/面试题/面试题自己做/js基础",
+		"/G/前端资源/新建文件夹/sam工作/js作业/面试题/面试题自己做",
+		"/G/前端资源/新建文件夹/sam工作/js作业",
+		"/C/Users/81120/Desktop/node",
+		"/C/Users/81120/Desktop/项目/examples-master",
+		"/C/Users/81120/Desktop/项目/demo",
+		"/C/Users/81120/Desktop/项目/seajs",
+		"/C/Users/81120/Desktop/miaowei",
+		"/C/Users/81120/Desktop/项目/seajs-master",
+		"/C/Users/81120/Desktop/Blog-master",
+		"/C/Users/81120/Desktop/angularjs-study-master",
+		"/C/Users/81120/Desktop/examples-master",
+		"/C/Users/81120/Desktop/demo",
+		"/C/Users/81120/Desktop/seajs",
+		"/C/Users/81120/Desktop/pt",
+		"/E/html前端开发/SXEbank/src/main/webapp",
+		"/C/Users/81120/Desktop/seajs-master",
+		"/E/html前端开发/SXEbank",
+		"/G/前端资源/h5常用工具/有用的资料、软件/开发工具及常用软件/java/project/XWEIBank",
+		"/E/html前端开发/SXEbank/src",
+		"/C/Users/81120/Desktop/praxis-master"
+	],
+	"last_version": 3126,
+	"last_window_id": 152,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 685.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"app",
+						"append\t.append()"
+					],
+					[
+						"a",
+						"ajax\t$.ajax()"
+					],
+					[
+						"re",
+						"removeClass"
+					],
+					[
+						"repl",
+						"replace"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"lists",
+						"list-style"
+					],
+					[
+						"lin",
+						"list-style-position"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"jquery",
+						"jquery-easing"
+					],
+					[
+						"cur",
+						"cursor"
+					],
+					[
+						"sea",
+						"seajs"
+					],
+					[
+						"col",
+						"color"
+					],
+					[
+						"clo",
+						"color"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pcr",
+						"Package Control: Remove Package"
+					],
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control:",
+						"Package Control: Install Package"
+					],
+					[
+						"prv",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"pc",
+						"Package Control: Remove Package"
+					],
+					[
+						"",
+						"AutoFileName: Default Settings"
+					],
+					[
+						"PackageResourceViewer",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"pcd",
+						"Package Control: Discover Packages"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Watson",
+						"HTML: Wrap Selection With Tag"
+					]
+				],
+				"width": 536.0
+			},
+			"console":
+			{
+				"height": 160.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/81120/Desktop/node star/a github demo/nodejs/NodeSample/README.md",
+				"/C/Users/81120/Desktop/node star/index.md",
+				"/C/Users/81120/Desktop/node star/package-lock.json",
+				"/C/Users/81120/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/README.md",
+				"/C/Users/81120/Desktop/node star/a github demo/nodejs/NodeSample/filelog.txt",
+				"/C/Users/81120/Desktop/node star/a github demo/nodejs/README.md",
+				"/C/Users/81120/Desktop/node star/package.json",
+				"/C/Users/81120/Desktop/node star/javascript/nodejs-demo/views/index.ejs",
+				"/C/Users/81120/Desktop/node star/javascript/nodejs-demo/views/error.ejs",
+				"/C/Users/81120/AppData/Roaming/Sublime Text 3/Packages/Theme - Spacegray/Spacegray.sublime-theme",
+				"/F/game/game02/NieR.Automata.Day.One.Edition-GamerSky/NieRAutomata/README.txt",
+				"/C/Users/81120/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/81120/AppData/Roaming/Sublime Text 3/Packages/Trimmer/Default (Windows).sublime-keymap",
+				"/C/Users/81120/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Users/81120/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/81120/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+				"/C/Users/81120/Desktop/项目/boortstrap/sam/demo/jascript/index.js",
+				"/C/Users/81120/Desktop/项目/base.css",
+				"/C/Users/81120/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
+				"/C/Users/81120/AppData/Roaming/Sublime Text 3/Packages/User/AdvancedNewFile.sublime-settings",
+				"/C/Users/81120/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/README.md",
+				"/C/Users/81120/Desktop/项目/boortstrap/demo/标题一.html/00.html",
+				"/C/Users/81120/Desktop/项目/boortstrap/demo/bootstrap全局样式/01.html",
+				"/C/Users/81120/Desktop/项目/boortstrap/src/main/script/jquery/bower.json",
+				"/C/Users/81120/Desktop/项目/boortstrap/src/main/script/jquery/dist/jquery.js",
+				"/C/Users/81120/AppData/Roaming/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+				"/C/Users/81120/Desktop/项目/boortstrap/src/main/script/jquery/dist/jquery.min.js",
+				"/C/Users/81120/Desktop/项目/boortstrap/src/main/script/mian/main.js",
+				"/C/Users/81120/Desktop/项目/boortstrap/src/main/app/index.html",
+				"/C/Users/81120/Desktop/项目/boortstrap/src/main/app/index02.html",
+				"/C/Users/81120/Desktop/项目/boortstrap/src/main/script/bootstrap/css/bootstrap-responsive.css",
+				"/C/Users/81120/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/81120/Desktop/node star/javascript/nodejs-demo/public/stylesheets/style.css",
+				"/C/Users/81120/Desktop/node star/javascript/nodejs-demo/app.js",
+				"/C/Users/81120/Desktop/node star/javascript/nodejs-demo/routes/index.js",
+				"/C/Users/81120/Desktop/node star/javascript/nodejs-demo/routes/users.js",
+				"/C/Users/81120/Desktop/node star/javascript/nodejs-demo/node_modules/accepts/HISTORY.md",
+				"/C/Users/81120/Desktop/node star/a github demo/nodejs/NodeSample/views/todo/todoManager.html",
+				"/C/Users/81120/Desktop/node star/a github demo/nodejs/NodeSample/public/js/lib/kindeditor/lang/zh_TW.js",
+				"/C/Users/81120/Desktop/node star/a github demo/nodejs/NodeSample/public/js/lib/kindeditor/plugins/baidumap/index.html",
+				"/C/Users/81120/Desktop/node star/javascript/nodejs-demo/bin/www",
+				"/C/mySoft/soft_hap/本地音乐播放器/foobaka alpha/foobaka-themes/ControlScrollbar.js",
+				"/C/mySoft/soft_hap/本地音乐播放器/foobaka alpha/LargeFieldsConfig.txt",
+				"/F/game/game01/Watch Dogs 2/说明.txt",
+				"/F/game/game01/Watch Dogs 2/如果游戏不能运行点我.txt",
+				"/C/Users/81120/Desktop/新建文本文档.txt",
+				"/C/Users/81120/Desktop/项目/kuayu/ajax.html",
+				"/C/Users/81120/Desktop/node star/javascript/nodejs-demo/package-lock.json",
+				"/C/Users/81120/Desktop/node star/javascript/nodejs-demo/package.json",
+				"/C/Users/81120/Desktop/项目/cut/cut.html",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/C/Users/81120/Desktop/项目/kuayu/node_modules/.staging/jquery-dc131b55/dist/jquery.js",
+				"/C/Users/81120/Desktop/项目/跨域请求/package.json",
+				"/C/Users/81120/Desktop/vpn/License.txt",
+				"/C/Users/81120/Desktop/前端学习/面向对象/事件委托.html",
+				"/G/前端资源/新建文件夹/sam工作/js作业/面试题/面试题自己做/js基础/计算器.html",
+				"/G/前端资源/新建文件夹/sam工作/js作业/面试题/面试题自己做/js基础/04pop-push-unshift-shift方法.html",
+				"/G/前端资源/新建文件夹/sam工作/js作业/面试题/面试题自己做/js基础/03split和join区别.html",
+				"/G/前端资源/新建文件夹/sam工作/js作业/面试题/面试题自己做/js基础/02强制转换和隐式转换.html",
+				"/G/前端资源/新建文件夹/sam工作/js作业/面试题/面试题自己做/js基础/面向对象.html",
+				"/G/前端资源/新建文件夹/sam工作/js作业/面试题/面试题自己做/js基础/0022.html",
+				"/G/前端资源/新建文件夹/sam工作/js作业/面试题/面试题自己做/js基础/质数.html",
+				"/G/前端资源/新建文件夹/sam工作/js作业/面试题/面试题自己做/js基础/获取对应的li的index值.html",
+				"/G/前端资源/新建文件夹/sam工作/js作业/面试题/面试题自己做/js基础/05事件绑定和普通事件有什么区别.html",
+				"/C/Users/81120/Desktop/node/package.json",
+				"/C/Users/81120/package-lock.json",
+				"/C/Users/81120/Desktop/node/node_modules/express/lib/express.js",
+				"/C/Users/81120/Desktop/node/hellow.html",
+				"/C/Users/81120/Desktop/前端学习/面向对象/定义函数的方式/01直接定义.html",
+				"/C/Users/81120/Desktop/前端学习/面向对象/定义函数的方式/01使用匿名函数定义.html",
+				"/C/Users/81120/Desktop/前端学习/面向对象/定义函数的方式/03使用Fucntion定义.html",
+				"/C/Users/81120/Desktop/项目/boortstrap/src/main/css/index.less",
+				"/C/Users/81120/Desktop/项目/boortstrap/demo/bootstrap全局样式/style.css",
+				"/C/Users/81120/Desktop/项目/boortstrap/src/main/script/bootstrap/js/bootstrap.js",
+				"/C/Users/81120/Desktop/项目/boortstrap/node_modules/grunt/lib/grunt.js",
+				"/C/Users/81120/Desktop/项目/boortstrap/script",
+				"/G/前端资源/新建文件夹/sam工作/js作业/面向对象篇/面向对象第五天/代码/01--模拟函数重载.html",
+				"/C/Users/81120/Desktop/项目/examples-master/index.html",
+				"/C/Users/81120/Desktop/项目/examples-master/a.html",
+				"/C/Users/81120/Desktop/项目/examples-master/00.html",
+				"/C/Users/81120/Desktop/miaowei/src/script/app.js",
+				"/C/Users/81120/Desktop/miaowei/src/css/base.less",
+				"/C/Users/81120/Desktop/miaowei/src/css/index.css",
+				"/C/Users/81120/AppData/Roaming/Sublime Text 3/Packages/User/less2css.sublime-settings",
+				"/G/前端资源/新建文件夹/sam工作/js作业/移动web篇/移动web补课/640demo/css/index.css",
+				"/G/前端资源/新建文件夹/sam工作/js作业/移动web篇/移动web补课/640demo/css/base.css",
+				"/G/前端资源/新建文件夹/sam工作/js作业/移动web篇/移动web补课/640demo/css/index.less",
+				"/G/前端资源/新建文件夹/sam工作/js作业/移动web篇/移动web补课/640demo/css/fonts.css",
+				"/C/Users/81120/Desktop/miaowei/package.json",
+				"/C/Users/81120/Desktop/miaowei/gulpfile.js",
+				"/C/Users/81120/Desktop/miaowei/src/script/test/own/index.js",
+				"/C/Users/81120/Desktop/miaowei/node_modules/seajs/lib/sea.js",
+				"/C/Users/81120/Desktop/miaowei/node_modules/seajs/dist/sea.js",
+				"/C/Users/81120/Desktop/miaowei/node_modules/sea.js/sea.js",
+				"/C/Users/81120/Desktop/miaowei/src/css/index.less",
+				"/C/Users/81120/Desktop/项目/examples-master/index.less",
+				"/C/Users/81120/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+				"/C/Users/81120/Desktop/demo/script/index.js",
+				"/C/Users/81120/Desktop/demo/node_modules/jquery-easing/jquery.easing.1.3.js",
+				"/C/Users/81120/Desktop/examples-master/sea-modules/jquery/easing/1.3.0/easing.js",
+				"/C/Users/81120/Desktop/demo/node_modules/easing/index.js",
+				"/C/Users/81120/Desktop/demo/node_modules/jquery-easing/dist/jquery.easing.1.3.umd.js",
+				"/C/Users/81120/Desktop/demo/script",
+				"/C/Users/81120/Desktop/demo/css/index.less",
+				"/C/Users/81120/Desktop/demo/node_modules/sea/index.js",
+				"/C/Users/81120/Desktop/npm/node_modules/angular/angular.js",
+				"/C/Users/81120/Desktop/npm/node_modules/_jquery@3.2.1@jquery/dist/jquery.js",
+				"/C/Users/81120/Desktop/npm/node_modules/_jquery@3.2.1@jquery/src/ajax.js",
+				"/C/Users/81120/Desktop/npm/node_modules/_angular@1.6.4@angular/angular.js",
+				"/C/Users/81120/Desktop/npm/node_modules/vue/dist/vue.js",
+				"/C/Users/81120/Desktop/npm/node_modules/.npminstall.done",
+				"/C/mySoft/soft_hap/QQ/434475117/Registry.db",
+				"/C/mySoft/soft_hap/QQ/434475117/QQ/Registry2.0.db",
+				"/C/mySoft/soft_hap/QQ/434475117/QQ/Registry2.0.db-journal",
+				"/C/mySoft/soft_hap/QQ/434475117/QQ/Registry.db",
+				"/C/Users/81120/Desktop/examples-master/static/lucky/src/data.js",
+				"/C/Users/81120/Desktop/examples-master/static/lucky/src/lucky.js",
+				"/C/Users/81120/Desktop/examples-master/index.html",
+				"/C/Users/81120/Desktop/examples-master/app/lucky.html",
+				"/C/Users/81120/Desktop/examples-master/app/lucky2.html",
+				"/C/Users/81120/Desktop/examples-master/static/lucky/src2/data.js",
+				"/C/Users/81120/Desktop/examples-master/static/lucky/src2",
+				"/C/Users/81120/Desktop/examples-master/sea-modules/examples/lucky/1.0.0/main.js",
+				"/C/Users/81120/Desktop/examples-master/static/lucky/src/main.js",
+				"/C/Users/81120/Desktop/examples-master/gulpfile.js",
+				"/C/Users/81120/Desktop/examples-master/examples1/js/main.js",
+				"/C/Users/81120/Desktop/examples-master/sam/js/lucky.js",
+				"/C/Users/81120/Desktop/examples-master/node_modules/.bin/gulp.cmd"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 133.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"jQuery",
+					"jquery",
+					"jQuery",
+					"jquery",
+					"tab_label\"",
+					"spacegray_tabs_font_large",
+					"spacegray_tabs_xlarge",
+					"tabset_control",
+					"spacegray_tabs_font_large",
+					"\"class\": \"sidebar_label\"",
+					"users",
+					"´",
+					"]);\n",
+					"debugger",
+					"len",
+					"for(var i = 0; i<a.length-1;i++) {\n\t\tfor(var j = 0;j<a.length-1-i;j++) {\n\t\t\tif(j[i] > j[i+1]) {\n\t\t\t\tvar arr = a[j+1];\n\t\t\t\ta[j+1] = a[j];\n\t\t\t\ta[j] = arr;\n\t\t\t}\n\t\t}\n\t}",
+					"r()",
+					"61.91.161.217",
+					"move",
+					"createEl",
+					"CANVAS_HEIGHT",
+					"r",
+					"debugger",
+					"init",
+					"index",
+					"jsonp",
+					"stop",
+					"start",
+					"});",
+					"logout",
+					"DocumentRoot",
+					"Deny from all",
+					"DocumentRoot",
+					"documentRoot",
+					"ctrl+shift+C",
+					"ctrl+shift",
+					"ctrl+shift+C",
+					"ctrl+shift+c",
+					"ctrl",
+					"ctrl+shift",
+					"]",
+					"ctrl+shift"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"s"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 39.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"javascript/",
+						"javascript\\nodejs-demo\\app.js"
+					],
+					[
+						"views/",
+						"a github demo\\nodejs\\NodeSample\\views\\todo\\todoManager.html"
+					],
+					[
+						"public/",
+						"a github demo\\nodejs\\NodeSample\\public\\js\\lib\\kindeditor\\lang\\zh_TW.js"
+					],
+					[
+						"public/in",
+						"a github demo\\nodejs\\NodeSample\\public\\js\\lib\\kindeditor\\plugins\\baidumap\\index.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 158.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1108.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"app",
+						"append\t.append()"
+					],
+					[
+						"a",
+						"ajax\t$.ajax()"
+					],
+					[
+						"re",
+						"removeClass"
+					],
+					[
+						"repl",
+						"replace"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"lists",
+						"list-style"
+					],
+					[
+						"lin",
+						"list-style-position"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"jquery",
+						"jquery-easing"
+					],
+					[
+						"cur",
+						"cursor"
+					],
+					[
+						"sea",
+						"seajs"
+					],
+					[
+						"col",
+						"color"
+					],
+					[
+						"clo",
+						"color"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/81120/Desktop/项目/boortstrap/src/main/script/jquery/dist/jquery.js",
+					"settings":
+					{
+						"buffer_size": 273046,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pcr",
+						"Package Control: Remove Package"
+					],
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control:",
+						"Package Control: Install Package"
+					],
+					[
+						"prv",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"pc",
+						"Package Control: Remove Package"
+					],
+					[
+						"",
+						"AutoFileName: Default Settings"
+					],
+					[
+						"PackageResourceViewer",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"pcd",
+						"Package Control: Discover Packages"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Watson",
+						"HTML: Wrap Selection With Tag"
+					]
+				],
+				"width": 536.0
+			},
+			"console":
+			{
+				"height": 160.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/81120/Desktop/项目/boortstrap",
+				"/C/Users/81120/Desktop/项目/boortstrap/src",
+				"/C/Users/81120/Desktop/项目/boortstrap/src/main",
+				"/C/Users/81120/Desktop/项目/boortstrap/src/main/script",
+				"/C/Users/81120/Desktop/项目/boortstrap/src/main/script/jquery",
+				"/C/Users/81120/Desktop/项目/boortstrap/src/main/script/jquery/dist"
+			],
+			"file_history":
+			[
+				"/C/Users/81120/.ssh/id_rsa.pub",
+				"/C/Users/81120/Desktop/项目/boortstrap/src/main/script/jquery/src/jquery.js",
+				"/C/Users/81120/Desktop/项目/boortstrap/src/main/script/jquery/src/ajax.js",
+				"/C/Users/81120/Desktop/项目/boortstrap/src/main/script/jquery/bower.json",
+				"/C/Users/81120/Desktop/node star/a github demo/nodejs/NodeSample/README.md",
+				"/C/Users/81120/Desktop/node star/index.md",
+				"/C/Users/81120/Desktop/node star/package-lock.json",
+				"/C/Users/81120/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/README.md",
+				"/C/Users/81120/Desktop/node star/a github demo/nodejs/NodeSample/filelog.txt",
+				"/C/Users/81120/Desktop/node star/a github demo/nodejs/README.md",
+				"/C/Users/81120/Desktop/node star/package.json",
+				"/C/Users/81120/Desktop/node star/javascript/nodejs-demo/views/index.ejs",
+				"/C/Users/81120/Desktop/node star/javascript/nodejs-demo/views/error.ejs",
+				"/C/Users/81120/AppData/Roaming/Sublime Text 3/Packages/Theme - Spacegray/Spacegray.sublime-theme",
+				"/F/game/game02/NieR.Automata.Day.One.Edition-GamerSky/NieRAutomata/README.txt",
+				"/C/Users/81120/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/81120/AppData/Roaming/Sublime Text 3/Packages/Trimmer/Default (Windows).sublime-keymap",
+				"/C/Users/81120/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/C/Users/81120/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/81120/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+				"/C/Users/81120/Desktop/项目/boortstrap/sam/demo/jascript/index.js",
+				"/C/Users/81120/Desktop/项目/base.css",
+				"/C/Users/81120/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
+				"/C/Users/81120/AppData/Roaming/Sublime Text 3/Packages/User/AdvancedNewFile.sublime-settings",
+				"/C/Users/81120/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/README.md",
+				"/C/Users/81120/Desktop/项目/boortstrap/demo/标题一.html/00.html",
+				"/C/Users/81120/Desktop/项目/boortstrap/demo/bootstrap全局样式/01.html",
+				"/C/Users/81120/Desktop/项目/boortstrap/src/main/script/jquery/dist/jquery.js",
+				"/C/Users/81120/AppData/Roaming/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+				"/C/Users/81120/Desktop/项目/boortstrap/src/main/script/jquery/dist/jquery.min.js",
+				"/C/Users/81120/Desktop/项目/boortstrap/src/main/script/mian/main.js",
+				"/C/Users/81120/Desktop/项目/boortstrap/src/main/app/index.html",
+				"/C/Users/81120/Desktop/项目/boortstrap/src/main/app/index02.html",
+				"/C/Users/81120/Desktop/项目/boortstrap/src/main/script/bootstrap/css/bootstrap-responsive.css",
+				"/C/Users/81120/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/81120/Desktop/node star/javascript/nodejs-demo/public/stylesheets/style.css",
+				"/C/Users/81120/Desktop/node star/javascript/nodejs-demo/app.js",
+				"/C/Users/81120/Desktop/node star/javascript/nodejs-demo/routes/index.js",
+				"/C/Users/81120/Desktop/node star/javascript/nodejs-demo/routes/users.js",
+				"/C/Users/81120/Desktop/node star/javascript/nodejs-demo/node_modules/accepts/HISTORY.md",
+				"/C/Users/81120/Desktop/node star/a github demo/nodejs/NodeSample/views/todo/todoManager.html",
+				"/C/Users/81120/Desktop/node star/a github demo/nodejs/NodeSample/public/js/lib/kindeditor/lang/zh_TW.js",
+				"/C/Users/81120/Desktop/node star/a github demo/nodejs/NodeSample/public/js/lib/kindeditor/plugins/baidumap/index.html",
+				"/C/Users/81120/Desktop/node star/javascript/nodejs-demo/bin/www",
+				"/C/mySoft/soft_hap/本地音乐播放器/foobaka alpha/foobaka-themes/ControlScrollbar.js",
+				"/C/mySoft/soft_hap/本地音乐播放器/foobaka alpha/LargeFieldsConfig.txt",
+				"/F/game/game01/Watch Dogs 2/说明.txt",
+				"/F/game/game01/Watch Dogs 2/如果游戏不能运行点我.txt",
+				"/C/Users/81120/Desktop/新建文本文档.txt",
+				"/C/Users/81120/Desktop/项目/kuayu/ajax.html",
+				"/C/Users/81120/Desktop/node star/javascript/nodejs-demo/package-lock.json",
+				"/C/Users/81120/Desktop/node star/javascript/nodejs-demo/package.json",
+				"/C/Users/81120/Desktop/项目/cut/cut.html",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/C/Users/81120/Desktop/项目/kuayu/node_modules/.staging/jquery-dc131b55/dist/jquery.js",
+				"/C/Users/81120/Desktop/项目/跨域请求/package.json",
+				"/C/Users/81120/Desktop/vpn/License.txt",
+				"/C/Users/81120/Desktop/前端学习/面向对象/事件委托.html",
+				"/G/前端资源/新建文件夹/sam工作/js作业/面试题/面试题自己做/js基础/计算器.html",
+				"/G/前端资源/新建文件夹/sam工作/js作业/面试题/面试题自己做/js基础/04pop-push-unshift-shift方法.html",
+				"/G/前端资源/新建文件夹/sam工作/js作业/面试题/面试题自己做/js基础/03split和join区别.html",
+				"/G/前端资源/新建文件夹/sam工作/js作业/面试题/面试题自己做/js基础/02强制转换和隐式转换.html",
+				"/G/前端资源/新建文件夹/sam工作/js作业/面试题/面试题自己做/js基础/面向对象.html",
+				"/G/前端资源/新建文件夹/sam工作/js作业/面试题/面试题自己做/js基础/0022.html",
+				"/G/前端资源/新建文件夹/sam工作/js作业/面试题/面试题自己做/js基础/质数.html",
+				"/G/前端资源/新建文件夹/sam工作/js作业/面试题/面试题自己做/js基础/获取对应的li的index值.html",
+				"/G/前端资源/新建文件夹/sam工作/js作业/面试题/面试题自己做/js基础/05事件绑定和普通事件有什么区别.html",
+				"/C/Users/81120/Desktop/node/package.json",
+				"/C/Users/81120/package-lock.json",
+				"/C/Users/81120/Desktop/node/node_modules/express/lib/express.js",
+				"/C/Users/81120/Desktop/node/hellow.html",
+				"/C/Users/81120/Desktop/前端学习/面向对象/定义函数的方式/01直接定义.html",
+				"/C/Users/81120/Desktop/前端学习/面向对象/定义函数的方式/01使用匿名函数定义.html",
+				"/C/Users/81120/Desktop/前端学习/面向对象/定义函数的方式/03使用Fucntion定义.html",
+				"/C/Users/81120/Desktop/项目/boortstrap/src/main/css/index.less",
+				"/C/Users/81120/Desktop/项目/boortstrap/demo/bootstrap全局样式/style.css",
+				"/C/Users/81120/Desktop/项目/boortstrap/src/main/script/bootstrap/js/bootstrap.js",
+				"/C/Users/81120/Desktop/项目/boortstrap/node_modules/grunt/lib/grunt.js",
+				"/C/Users/81120/Desktop/项目/boortstrap/script",
+				"/G/前端资源/新建文件夹/sam工作/js作业/面向对象篇/面向对象第五天/代码/01--模拟函数重载.html",
+				"/C/Users/81120/Desktop/项目/examples-master/index.html",
+				"/C/Users/81120/Desktop/项目/examples-master/a.html",
+				"/C/Users/81120/Desktop/项目/examples-master/00.html",
+				"/C/Users/81120/Desktop/miaowei/src/script/app.js",
+				"/C/Users/81120/Desktop/miaowei/src/css/base.less",
+				"/C/Users/81120/Desktop/miaowei/src/css/index.css",
+				"/C/Users/81120/AppData/Roaming/Sublime Text 3/Packages/User/less2css.sublime-settings",
+				"/G/前端资源/新建文件夹/sam工作/js作业/移动web篇/移动web补课/640demo/css/index.css",
+				"/G/前端资源/新建文件夹/sam工作/js作业/移动web篇/移动web补课/640demo/css/base.css",
+				"/G/前端资源/新建文件夹/sam工作/js作业/移动web篇/移动web补课/640demo/css/index.less",
+				"/G/前端资源/新建文件夹/sam工作/js作业/移动web篇/移动web补课/640demo/css/fonts.css",
+				"/C/Users/81120/Desktop/miaowei/package.json",
+				"/C/Users/81120/Desktop/miaowei/gulpfile.js",
+				"/C/Users/81120/Desktop/miaowei/src/script/test/own/index.js",
+				"/C/Users/81120/Desktop/miaowei/node_modules/seajs/lib/sea.js",
+				"/C/Users/81120/Desktop/miaowei/node_modules/seajs/dist/sea.js",
+				"/C/Users/81120/Desktop/miaowei/node_modules/sea.js/sea.js",
+				"/C/Users/81120/Desktop/miaowei/src/css/index.less",
+				"/C/Users/81120/Desktop/项目/examples-master/index.less",
+				"/C/Users/81120/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+				"/C/Users/81120/Desktop/demo/script/index.js",
+				"/C/Users/81120/Desktop/demo/node_modules/jquery-easing/jquery.easing.1.3.js",
+				"/C/Users/81120/Desktop/examples-master/sea-modules/jquery/easing/1.3.0/easing.js",
+				"/C/Users/81120/Desktop/demo/node_modules/easing/index.js",
+				"/C/Users/81120/Desktop/demo/node_modules/jquery-easing/dist/jquery.easing.1.3.umd.js",
+				"/C/Users/81120/Desktop/demo/script",
+				"/C/Users/81120/Desktop/demo/css/index.less",
+				"/C/Users/81120/Desktop/demo/node_modules/sea/index.js",
+				"/C/Users/81120/Desktop/npm/node_modules/angular/angular.js",
+				"/C/Users/81120/Desktop/npm/node_modules/_jquery@3.2.1@jquery/dist/jquery.js",
+				"/C/Users/81120/Desktop/npm/node_modules/_jquery@3.2.1@jquery/src/ajax.js",
+				"/C/Users/81120/Desktop/npm/node_modules/_angular@1.6.4@angular/angular.js",
+				"/C/Users/81120/Desktop/npm/node_modules/vue/dist/vue.js",
+				"/C/Users/81120/Desktop/npm/node_modules/.npminstall.done",
+				"/C/mySoft/soft_hap/QQ/434475117/Registry.db",
+				"/C/mySoft/soft_hap/QQ/434475117/QQ/Registry2.0.db",
+				"/C/mySoft/soft_hap/QQ/434475117/QQ/Registry2.0.db-journal",
+				"/C/mySoft/soft_hap/QQ/434475117/QQ/Registry.db",
+				"/C/Users/81120/Desktop/examples-master/static/lucky/src/data.js",
+				"/C/Users/81120/Desktop/examples-master/static/lucky/src/lucky.js",
+				"/C/Users/81120/Desktop/examples-master/index.html",
+				"/C/Users/81120/Desktop/examples-master/app/lucky.html",
+				"/C/Users/81120/Desktop/examples-master/app/lucky2.html",
+				"/C/Users/81120/Desktop/examples-master/static/lucky/src2/data.js",
+				"/C/Users/81120/Desktop/examples-master/static/lucky/src2",
+				"/C/Users/81120/Desktop/examples-master/sea-modules/examples/lucky/1.0.0/main.js",
+				"/C/Users/81120/Desktop/examples-master/static/lucky/src/main.js",
+				"/C/Users/81120/Desktop/examples-master/gulpfile.js"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 133.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"jQuery",
+					"jquery",
+					"jQuery",
+					"jquery",
+					"tab_label\"",
+					"spacegray_tabs_font_large",
+					"spacegray_tabs_xlarge",
+					"tabset_control",
+					"spacegray_tabs_font_large",
+					"\"class\": \"sidebar_label\"",
+					"users",
+					"´",
+					"]);\n",
+					"debugger",
+					"len",
+					"for(var i = 0; i<a.length-1;i++) {\n\t\tfor(var j = 0;j<a.length-1-i;j++) {\n\t\t\tif(j[i] > j[i+1]) {\n\t\t\t\tvar arr = a[j+1];\n\t\t\t\ta[j+1] = a[j];\n\t\t\t\ta[j] = arr;\n\t\t\t}\n\t\t}\n\t}",
+					"r()",
+					"61.91.161.217",
+					"move",
+					"createEl",
+					"CANVAS_HEIGHT",
+					"r",
+					"debugger",
+					"init",
+					"index",
+					"jsonp",
+					"stop",
+					"start",
+					"});",
+					"logout",
+					"DocumentRoot",
+					"Deny from all",
+					"DocumentRoot",
+					"documentRoot",
+					"ctrl+shift+C",
+					"ctrl+shift",
+					"ctrl+shift+C",
+					"ctrl+shift+c",
+					"ctrl",
+					"ctrl+shift",
+					"]",
+					"ctrl+shift"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"s"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\81120\\Desktop\\项目\\boortstrap"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/81120/Desktop/项目/boortstrap/src/main/script/jquery/dist/jquery.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 273046,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										17660,
+										17660
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												17891,
+												17892
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												17447,
+												17448
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/base16-ocean.dark (SL).tmTheme",
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 14256.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 39.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,978,234,234,1358",
+			"project": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"javascript/",
+						"javascript\\nodejs-demo\\app.js"
+					],
+					[
+						"views/",
+						"a github demo\\nodejs\\NodeSample\\views\\todo\\todoManager.html"
+					],
+					[
+						"public/",
+						"a github demo\\nodejs\\NodeSample\\public\\js\\lib\\kindeditor\\lang\\zh_TW.js"
+					],
+					[
+						"public/in",
+						"a github demo\\nodejs\\NodeSample\\public\\js\\lib\\kindeditor\\plugins\\baidumap\\index.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 206.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 152,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

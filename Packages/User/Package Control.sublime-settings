@@ -1,0 +1,38 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"CSScomb",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"jQuery",
+		"JSCS-Formatter",
+		"JsFormat",
+		"LESS",
+		"Less2Css",
+		"lessc",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"PackageResourceViewer",
+		"Predawn",
+		"Predawn Monokai",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"Theme - Afterglow",
+		"Theme - Glacier",
+		"Theme - Praxis",
+		"Theme - Spacegray",
+		"Theme - Watson",
+		"Trimmer"
+	]
+}
