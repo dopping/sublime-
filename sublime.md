@@ -1,4 +1,5 @@
 #关于sublime的配置信息
+===
 
 ### sublime快捷键使用
 - Ctrl+alt+f ==>格式化js代码
