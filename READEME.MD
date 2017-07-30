@@ -1,7 +1,7 @@
 # 一些简单的sublime插件和主题的配置
 ### 主题是本人非常喜欢的风格
 ![]
-(imgges\sub.png)
+(imgges/sub.png)
 > 主题用的pacegray.sublime-theme 基本配置如下
 ```
 "spacegray_fileicons": true,
